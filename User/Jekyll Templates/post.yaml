@@ -1,0 +1,9 @@
+---
+layout: post
+title: ${1:post}
+date: ${date}
+category: $2
+description: $3
+img: $4
+tags: [$5]
+---

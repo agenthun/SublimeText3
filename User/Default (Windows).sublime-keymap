@@ -1,0 +1,25 @@
+[
+    { "keys": ["f5"], "command": "side_bar_files_open_with",
+             "args": {
+                "paths": [],
+                "application": "D:\\Program Files (x86)\\Tencent\\QQBrowser\\QQBrowser.exe",
+                "extensions":".*"
+            }
+    },
+    { "keys": ["f12"], "command": "goto_definition" },
+    { "keys": ["alt+minus"], "command": "jump_back" },
+    { "keys": ["alt+plus"], "command": "jump_forward" },
+
+    {
+        "keys": ["ctrl+alt+shift+m"], "command": "sublime_tmpl",
+        "args": {"type": "Markdown"}
+    },
+    {
+        "keys": ["ctrl+alt++shift+h"], "command": "sublime_tmpl",
+        "args": {"type": "Embedded-H"}
+    },
+    {
+        "keys": ["ctrl+alt++shift+c"], "command": "sublime_tmpl",
+        "args": {"type": "Embedded-C"}
+    }
+]

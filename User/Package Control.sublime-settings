@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Beautiful Soup Completion",
+		"Codecs33",
+		"CodeFormatter",
+		"Color Highlighter",
+		"ConvertToUTF8",
+		"Emmet",
+		"Insert Nums",
+		"Jekyll",
+		"MarkdownEditing",
+		"Material Theme",
+		"Mou Markdown App (OSX)",
+		"Package Control",
+		"Pretty JSON",
+		"SideBarEnhancements",
+		"SublimeAStyleFormatter",
+		"SublimeGit",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeTmpl",
+		"Terminal"
+	]
+}
